@@ -16,6 +16,14 @@
 - 在庫切れ後の再入荷時には再通知
 - 複数のAmazon商品を同時監視
 
+## 📷 動作画面
+
+### LINE通知
+
+在庫復活を検知すると、LINEへ商品URLを通知します。
+
+![LINE通知画面](line-notification-portfolio.png)
+
 ## 使用技術
 
 - Python
